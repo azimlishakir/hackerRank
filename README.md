@@ -4,6 +4,6 @@ My HackerRank profile (https://www.hackerrank.com/profile/shakir_azimli)
 
 ## Java
 
-| # | Title                                                                                              | Solutions                                      | Difficulty | Tag   |
-|---|----------------------------------------------------------------------------------------------------|------------------------------------------------|------------|-------|
-| 1 | [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [Solution](java/welcome_to_java/Solution.java) | Easy       | Array |
+| # | Title                                                                                              | Solutions                                                      | Difficulty | Tag   |
+|---|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------|-------|
+| 1 | [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [Solution](hackerRank-java/java/welcome_to_java/Solution.java) | Easy       | Array |
