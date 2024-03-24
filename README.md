@@ -7,3 +7,4 @@ My HackerRank profile (https://www.hackerrank.com/profile/shakir_azimli)
 | # | Title                                                                                              | Solutions                                                      | Difficulty | Tag    |
 |---|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------|--------|
 | 1 | [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true) | [Solution](java/welcome_to_java/Solution.java) | Easy       | Simple |
+| 2 | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true) | [Solution](java/java_stdin_and_stdout/Solution.java) | Easy       | Simple |
