@@ -13,3 +13,4 @@ My HackerRank profile (https://www.hackerrank.com/profile/shakir_azimli)
 | 5 | [Java Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | [Solution](java/java_output_formatting/Solution.java) | Easy       | Simple |
 | 6 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem?isFullScreen=true) | [Solution](java/java_loops_1/Solution.java) | Easy       | Simple |
 | 7 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true) | [Solution](java/java_loops_2/Solution.java) | Easy       | Simple |
+| 8 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [Solution](java/data_types/Solution.java) | Easy       | Simple |
