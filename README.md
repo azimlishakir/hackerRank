@@ -18,3 +18,4 @@ My HackerRank profile (https://www.hackerrank.com/profile/shakir_azimli)
 | 10 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) | [Solution](java/java_static_intiliazer_block/Solution.java) | Easy       | Simple |
 | 11 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem?isFullScreen=true) | [Solution](java/java_int_to_static/Solution.java) | Easy       | Simple |
 | 12 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) | [Solution](java/java_date_and_time/Solution.java) | Easy       | Simple |
+| 13 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) | [Solution](java/java_currency_formatting/Solution.java) | Easy       | Simple |
