@@ -15,3 +15,4 @@ My HackerRank profile (https://www.hackerrank.com/profile/shakir_azimli)
 | 7 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true) | [Solution](java/java_loops_2/Solution.java) | Easy       | Simple |
 | 8 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | [Solution](java/data_types/Solution.java) | Easy       | Simple |
 | 9 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | [Solution](java/java_end_of_file/Solution.java) | Easy       | Simple |
+| 10 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem?isFullScreen=true) | [Solution](java/java_static_intiliazer_block/Solution.java) | Easy       | Simple |
