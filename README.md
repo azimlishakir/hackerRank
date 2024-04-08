@@ -21,3 +21,4 @@ My HackerRank profile (https://www.hackerrank.com/profile/shakir_azimli)
 | 13 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-date-and-time/problem?isFullScreen=true) | [Solution](java/java_currency_formatting/Solution.java) | Easy       | Simple |
 | 14 | [Java BigInteger](https://www.hackerrank.com/challenges/java-biginteger/problem?isFullScreen=true) | [Solution](java/java_biginteger/Solution.java) | Easy       | Simple |
 | 15 | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem?isFullScreen=true) | [Solution](java/java_string_reverse/Solution.java) | Easy       | Simple |
+| 16 | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true) | [Solution](java/java_inheritance_1/Solution.java) | Easy       | Simple |
