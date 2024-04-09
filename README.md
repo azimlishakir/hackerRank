@@ -23,3 +23,4 @@ My HackerRank profile (https://www.hackerrank.com/profile/shakir_azimli)
 | 15 | [Java String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem?isFullScreen=true) | [Solution](java/java_string_reverse/Solution.java) | Easy       | Simple |
 | 16 | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true) | [Solution](java/java_inheritance_1/Solution.java) | Easy       | Simple |
 | 17 | [Java Singleton Pattern](https://www.hackerrank.com/challenges/java-singleton/problem) | [Solution](java/java_singleton/Singleton.java) | Easy       | Simple |
+| 16 | [Java Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem?isFullScreen=true) | [Solution](java/java_inheritance_1/Solution.java) | Easy       | Simple |
